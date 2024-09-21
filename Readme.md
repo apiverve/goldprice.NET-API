@@ -93,10 +93,10 @@ if(response.error != null) {
   "error": null,
   "data": {
     "currency": "USD",
-    "gram": 87.38,
-    "kilogram": 87384.28,
-    "ounce": 2477.3,
-    "lastUpdated": 1723611604
+    "gram": 88.76,
+    "kilogram": 88763.49,
+    "ounce": 2516.4,
+    "lastUpdated": 1725181202
   },
   "code": 200
 }
